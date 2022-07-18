@@ -1,0 +1,2 @@
+# gump-sniper
+gump sniper Is a free open source mod that is NOT BANNABLE still a work in progress I made it at 3 am after all of you have any problems please leave a comment I will add more things in the future such as a built in dupe checker ( so u don’t accidentally snipe a duped item ) and I am going to try and add a bazaar tracker so you guys can manipulate more easily if u have any problems with it leave a comment plz
